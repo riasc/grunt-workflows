@@ -1,0 +1,5 @@
+# yml file to create pointers to directories
+scss_src_dir: src/scss/
+css_src_dir: src/css/
+js_src_dir: src/js/
+js_concat_dir: src/js/concat/
