@@ -34,7 +34,6 @@ module.exports = function(grunt) {
         }
     });
 
-
     // register the task
     grunt.registerTask('default',[
         'sass',
